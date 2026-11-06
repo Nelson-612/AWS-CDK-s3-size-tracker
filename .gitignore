@@ -1,0 +1,10 @@
+node_modules/
+cdk.out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+cdk.context.json
+layer/matplotlib/python/
